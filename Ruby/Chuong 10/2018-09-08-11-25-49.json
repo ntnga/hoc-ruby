@@ -1,0 +1,28 @@
+{
+	"giao_dich_vang": [
+		{
+			"ma": "v001",
+			"ngay": "2018-09-08 11:23:06",
+			"don_gia": 2350000.0,
+			"so_luong": 10,
+			"loai": "18K"
+		},
+		{
+			"ma": "v002",
+			"ngay": "2018-09-08 11:23:28",
+			"don_gia": 3350000.0,
+			"so_luong": 5,
+			"loai": "24K"
+		}
+	],
+	"giao_dich_tien": [
+		{
+			"ma": "nt001",
+			"ngay": "2018-09-08 11:24:38",
+			"don_gia": 23500.0,
+			"so_luong": 100,
+			"loai": "USD",
+			"loai_giao_dich": 1
+		}
+	]
+}

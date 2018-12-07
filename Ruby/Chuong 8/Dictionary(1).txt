@@ -1,0 +1,9 @@
+ant = con kiếnbear = con gấu
+1
+cat = con mèo
+dog = con chó
+dog = con chó
+elephent = con voi
+fish = con cá
+goat = con dê
+hippo = con hà mã
